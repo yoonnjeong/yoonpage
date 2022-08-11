@@ -1,0 +1,74 @@
+{
+    "imageItems":[
+        {
+            "href":"https://yoonnjeong.github.io/kakao/",
+            "thmbnail":"./asset/images/kakaoig.png",
+            "type":"PC",
+            "desc":"⇨ Git을 통한 프로젝트 협력작업",
+            "projectName":"kakao",
+            "point":"Team project",
+            "codehref":"https://poised-phosphorus-84f.notion.site/kakao-mobility-eff37f806d8d41cfaa9fc084127feb46",
+            "pageSize":null
+        },
+        {
+            "href":"https://yoonnjeong.github.io/BelArosa/",
+            "thmbnail":"./asset/images/belarosaig.png",
+            "type":"Response",
+            "desc":"⇨ Gsap의 ScrollTrigger를 통한 Timeline 구현",
+            "projectName":"Belarosa",
+            "point":"Gsap",
+            "codehref":"https://poised-phosphorus-84f.notion.site/BelArosa-9e3c03ccea75494594040ba3846eafbd",
+            "pageSize":null
+        },
+        {
+            "href":"https://yoonnjeong.github.io/naver-shop/",
+            "thmbnail":"./asset/images/navershopingig.png",
+            "type":"Mobile",
+            "desc":"⇨ 비동기통신 JSON을 이용한 사이트 구현",
+            "projectName":"Naver Shopping",
+            "point":"Json",
+            "codehref":"https://poised-phosphorus-84f.notion.site/Naver-Shopping-b7603cabeef343d69319d228e68a50ae",
+            "pageSize": "window.open(this.href, '', 'width=375, height=667'); return false;"
+        },
+        {
+            "href":"https://yoonnjeong.github.io/naver-career/",
+            "thmbnail":"./asset/images/navercareerig.png",
+            "type":"Response",
+            "desc":"⇨ PC부터 Mobile까지 가능한 반응형 사이트로 구현",
+            "projectName":"Naver career",
+            "point":"Response",
+            "codehref":"https://poised-phosphorus-84f.notion.site/NAVER-Careers-1cf9cd646f5546858f7660e5db96634c",
+            "pageSize":null
+        },
+        {
+            "href":"https://yoonnjeong.github.io/andar-js/",
+            "thmbnail":"./asset/images/andarig.png",
+            "type":"Mobile",
+            "desc":"⇨ jquery를 javaScript로 변경하여 구현",
+            "projectName":"andar",
+            "point":"Swiper API",
+            "codehref":"https://poised-phosphorus-84f.notion.site/b54a12f6d838422e8466f8ecd3efa3dc",
+            "pageSize": "window.open(this.href, '', 'width=375, height=667'); return false;"
+        },
+        {
+            "href":"https://yoonnjeong.github.io/SEOUL/",
+            "thmbnail":"./asset/images/seoulig.png",
+            "type":"PC",
+            "desc":"⇨ Web Accessibility 준수",
+            "projectName":"Seoul City Hall",
+            "point":"Web Accessibility",
+            "codehref":"https://poised-phosphorus-84f.notion.site/7ef7587a40a64ffaab2e9769c9e8354b",
+            "pageSize":null
+        },
+        {
+            "href":"https://yoonnjeong.github.io/naver/",
+            "thmbnail":"./asset/images/naverig.png",
+            "type":"PC",
+            "desc":"⇨ IR(Image Replacement)을 이용해 접근성 준수",
+            "projectName":"Naver",
+            "point":"IR/IS",
+            "codehref":"https://poised-phosphorus-84f.notion.site/NAVER-50501e2a088041f29baf2648830e0616",
+            "pageSize":null
+        }
+    ]
+}

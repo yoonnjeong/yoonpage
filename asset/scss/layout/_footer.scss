@@ -1,0 +1,32 @@
+footer {
+    padding: 0 5vw 20vh;
+    background: #000;
+    font-size: 14px;
+    box-sizing: border-box;
+
+    .f-wrap {
+        border-top: 1px solid #fff;
+        display: flex;
+        justify-content: space-between;
+        padding-top: 40px;
+    }
+
+    .content-tx {
+        display: inline-block;
+        font-weight: 400;
+
+        +.content-tx {
+            margin-left: 7px;
+        }
+    }
+}
+@media screen and (max-width: 700px) {
+    footer {
+        .f-wrap {
+            display: block;
+        }
+        .ambition {
+            margin-top: 10px;
+        }
+    }
+}

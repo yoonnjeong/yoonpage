@@ -1,0 +1,45 @@
+.blind { 
+    position: absolute; 
+    overflow: hidden; 
+    clip: rect(0 0 0 0); 
+    margin: -1px; 
+    width: 1px; 
+    height: 1px; 
+}
+.clearfix:after {
+    content:''; 
+    display: block; 
+    clear:both;
+}
+body {
+    // font-family: 'Neue Haas Display','SF Pro Text','SF Pro KR', sans-serif;
+
+    
+    font-family: "Neue Haas Display","SF Pro KR","SF Pro Text","SF Pro Icons","Apple Gothic","HY Gulim","MalgunGothic","HY Dotum","Lexi Gulim","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+
+    // font-family: 'SF Pro KR','SF Pro Text','SF Pro Icons','Helvetica Neue','Helvetica','Arial',sans-serif;
+    font-weight: 300;
+    color: #fff;
+
+    &.active {
+        overflow: hidden;
+    }
+}
+.cursor {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 10000000;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #fff;
+    mix-blend-mode: difference;
+    pointer-events: none;
+
+    &.hide {
+        opacity: 0;
+    }
+}
